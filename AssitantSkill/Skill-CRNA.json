@@ -1,0 +1,1618 @@
+{
+  "intents": [
+    {
+      "intent": "Protection",
+      "examples": [
+        {
+          "text": "how can I prevent it?"
+        },
+        {
+          "text": "what protection measures can I take?"
+        },
+        {
+          "text": "what I need to do to protect me?"
+        },
+        {
+          "text": "how to avoid corona virus?"
+        },
+        {
+          "text": "protection measures?"
+        },
+        {
+          "text": "how can I protect myself?"
+        },
+        {
+          "text": "how to protect my family?"
+        },
+        {
+          "text": "how can avoid contagious?"
+        },
+        {
+          "text": "protection"
+        },
+        {
+          "text": "distance"
+        },
+        {
+          "text": "prevention"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Feeling",
+      "examples": [
+        {
+          "text": "I got fever"
+        },
+        {
+          "text": "I got some fever"
+        },
+        {
+          "text": "I got some dry cough"
+        },
+        {
+          "text": "I got high temperature"
+        },
+        {
+          "text": "I got body pain"
+        },
+        {
+          "text": "I'm feeling body ache"
+        },
+        {
+          "text": "I got dry cough"
+        },
+        {
+          "text": "I'm feeling unwell"
+        },
+        {
+          "text": "difficulties to breath"
+        },
+        {
+          "text": "I got difficulty breathing"
+        },
+        {
+          "text": "I have muscle pain"
+        },
+        {
+          "text": "I feel really bad"
+        },
+        {
+          "text": "I have body ache"
+        },
+        {
+          "text": "I have dry cough and fever"
+        },
+        {
+          "text": "I'm feeling bad"
+        },
+        {
+          "text": "I'm not feeling well"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Corona",
+      "examples": [
+        {
+          "text": "what is corona?"
+        },
+        {
+          "text": "what is a novel coronavirus?"
+        },
+        {
+          "text": "what is a corona virus?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Symptoms",
+      "examples": [
+        {
+          "text": "symptoms?"
+        },
+        {
+          "text": "what are its symptoms?"
+        },
+        {
+          "text": "what's are corona symptoms?"
+        },
+        {
+          "text": "what kind of symptoms has?"
+        },
+        {
+          "text": "how are the symptoms?"
+        },
+        {
+          "text": "what are the symptoms?"
+        },
+        {
+          "text": "I need information about symptoms"
+        },
+        {
+          "text": "what are corona virus symptoms?"
+        },
+        {
+          "text": "what are corona symptoms?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Feedback",
+      "examples": [
+        {
+          "text": "thank you"
+        },
+        {
+          "text": "thanks"
+        },
+        {
+          "text": "appreciate"
+        },
+        {
+          "text": "thx"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "FeelingGood",
+      "examples": [
+        {
+          "text": "I'm doing well"
+        },
+        {
+          "text": "Im feeling ok"
+        },
+        {
+          "text": "I'm cool"
+        },
+        {
+          "text": "Im fine"
+        },
+        {
+          "text": "cool"
+        },
+        {
+          "text": "fine"
+        },
+        {
+          "text": "great"
+        },
+        {
+          "text": "I'm ok"
+        },
+        {
+          "text": "I'm feeling well"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Incubation",
+      "examples": [
+        {
+          "text": "How long take the incubation?"
+        },
+        {
+          "text": "incubation info"
+        },
+        {
+          "text": "Incubation time?"
+        },
+        {
+          "text": "What about the incubation?"
+        },
+        {
+          "text": "How long is the incubation period?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Cases",
+      "examples": [
+        {
+          "text": "Germany"
+        },
+        {
+          "text": "status cases"
+        },
+        {
+          "text": "corona cases status"
+        },
+        {
+          "text": "contagion cases"
+        },
+        {
+          "text": "Infection cases"
+        },
+        {
+          "text": "argentina"
+        },
+        {
+          "text": "Oman"
+        },
+        {
+          "text": "UK"
+        },
+        {
+          "text": "pakistan"
+        },
+        {
+          "text": "bolivia"
+        },
+        {
+          "text": "Chile"
+        },
+        {
+          "text": "Italy"
+        },
+        {
+          "text": "how many cases today"
+        },
+        {
+          "text": "UAE"
+        },
+        {
+          "text": "cases information"
+        },
+        {
+          "text": "I want to know the cases in my area"
+        },
+        {
+          "text": "cases of covid"
+        },
+        {
+          "text": "mexico"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Treatment",
+      "examples": [
+        {
+          "text": "is there any drug to treat it?"
+        },
+        {
+          "text": "there's any treatment?"
+        },
+        {
+          "text": "treatments"
+        },
+        {
+          "text": "is there a treatment for a novel coronavirus?"
+        },
+        {
+          "text": "are antibiotics effective treating corona virus?"
+        },
+        {
+          "text": "there's a vaccination for corona?"
+        },
+        {
+          "text": "what's the treatment for corona?"
+        },
+        {
+          "text": "there's any vaccination available?"
+        },
+        {
+          "text": "any vaccination available?"
+        },
+        {
+          "text": "any vaccination?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Greetings",
+      "examples": [
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hi"
+        },
+        {
+          "text": "Yo"
+        },
+        {
+          "text": "Good eveaning"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Hey"
+        },
+        {
+          "text": "Alo"
+        },
+        {
+          "text": "Hi, I'm sina"
+        },
+        {
+          "text": "Hey I'm wall"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "WhatToDo",
+      "examples": [
+        {
+          "text": "do I need medical help?"
+        },
+        {
+          "text": "what can I if got the disease?"
+        },
+        {
+          "text": "should I worried about?"
+        },
+        {
+          "text": "what I have to do?"
+        },
+        {
+          "text": "what I need to do?"
+        },
+        {
+          "text": "what can I do?"
+        },
+        {
+          "text": "what should I do?"
+        },
+        {
+          "text": "where should I go?"
+        },
+        {
+          "text": "where can I go?"
+        },
+        {
+          "text": "should I go to the doctor?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "COVID-19",
+      "examples": [
+        {
+          "text": "what's covid19?"
+        },
+        {
+          "text": "what is covid -19?"
+        },
+        {
+          "text": "covid 19"
+        },
+        {
+          "text": "covid-19"
+        },
+        {
+          "text": "hello whats covid19?"
+        },
+        {
+          "text": "covid"
+        },
+        {
+          "text": "what's covid 19"
+        },
+        {
+          "text": "covid?"
+        },
+        {
+          "text": "whats covid?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Risk",
+      "examples": [
+        {
+          "text": "what should avoid?"
+        },
+        {
+          "text": "is there anything should I not do?"
+        },
+        {
+          "text": "is corona dangerous for children?"
+        },
+        {
+          "text": "are old people in risk?"
+        },
+        {
+          "text": "are kids in risk?"
+        },
+        {
+          "text": "How easy is to get corona?"
+        },
+        {
+          "text": "is it dangerous?"
+        },
+        {
+          "text": "what kind of risk corona presents?"
+        },
+        {
+          "text": "who is affected?"
+        },
+        {
+          "text": "who is more affected?"
+        },
+        {
+          "text": "who's in risk?"
+        },
+        {
+          "text": "is corona virus risky?"
+        },
+        {
+          "text": "I need information about risk"
+        },
+        {
+          "text": "I want to know about corona risks"
+        },
+        {
+          "text": "it is dangerous?"
+        },
+        {
+          "text": "how probable are the chances to get it?"
+        },
+        {
+          "text": "How likely is it that I acquire coronavirus?"
+        },
+        {
+          "text": "what are my risk of contagion?"
+        },
+        {
+          "text": "what is my risk of contagion?"
+        },
+        {
+          "text": "how likely I am to catch corona?"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "sys-location",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-person",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "coronarisks",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "risk",
+          "synonyms": [
+            "risks",
+            "hazard",
+            "risky",
+            "likely",
+            "threat",
+            "dangerous"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "risk_who",
+          "synonyms": [
+            "who is",
+            "whom",
+            "people",
+            "kids",
+            "children",
+            "older",
+            "old",
+            "diabetes",
+            "heart disease",
+            "blood pressure"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "risk_contagion",
+          "synonyms": [
+            "contagion",
+            "catch",
+            "catching",
+            "get"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "definition",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "corona",
+          "synonyms": [
+            "coronavirus",
+            "virus",
+            "coronaviruses"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "covid",
+          "synonyms": [
+            "covid19",
+            "covid-19",
+            "covid"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "yesornot",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "no",
+          "synonyms": [
+            "negative",
+            "nope",
+            "nop",
+            "nah",
+            "nothing"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "yes",
+          "synonyms": [
+            "yeah",
+            "yeap",
+            "yes",
+            "yep",
+            "yup"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "countries",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Lebanon",
+          "synonyms": [
+            "libano",
+            "lebanese"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "China",
+          "synonyms": [
+            "china",
+            "chinese"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Chile",
+          "synonyms": [
+            "Chile",
+            "republica de chile"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Italy",
+          "synonyms": [
+            "italia",
+            "italian"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "UAE",
+          "synonyms": [
+            "United Arab Emirates",
+            "emiratos arabes unidos",
+            "emirates",
+            "emirati"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "US",
+          "synonyms": [
+            "usa",
+            "eeuu",
+            "united states",
+            "america",
+            "eua"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "UK",
+          "synonyms": [
+            "united kingdom",
+            "england",
+            "britain",
+            "british",
+            "wales"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Brazil",
+          "synonyms": [
+            "Brasil",
+            "brazilian"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Argentina",
+          "synonyms": [
+            "argentinos",
+            "argentinian"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Iran",
+          "synonyms": [
+            "iranian",
+            "iranians"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Oman",
+          "synonyms": [
+            "oman",
+            "sultanate of oman",
+            "omani"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "measures",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "stay",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "distance",
+          "synonyms": [
+            "distances",
+            "distant",
+            "away",
+            "range",
+            "spacing"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "wash",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "hygiene",
+          "synonyms": [
+            "hygienic",
+            "hygeine",
+            "hygene",
+            "cleanliness"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "informed",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "touching",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "prevention",
+          "synonyms": [
+            "preventative",
+            "avoidance"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "symptomatology",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "cough",
+          "synonyms": [
+            "coughing",
+            "dry cough"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "tiredness",
+          "synonyms": [
+            "fatigue",
+            "languishment",
+            "weariness",
+            "fatique",
+            "achiness",
+            "tired"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "throat",
+          "synonyms": [
+            "sore throat",
+            "itchy throat"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "nose",
+          "synonyms": [
+            "runny",
+            "itchy"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "aches",
+          "synonyms": [
+            "pain",
+            "ache",
+            "soreness",
+            "pains"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "breathing",
+          "synonyms": [
+            "nasal congestion",
+            "congestion",
+            "congested",
+            "difficulty"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "fever",
+          "synonyms": [
+            "high temperature",
+            "fevers"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "coronatreatment",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "vaccine",
+          "synonyms": [
+            "vaccination",
+            "vaccines",
+            "immunization",
+            "immunisation",
+            "inoculations",
+            "drug",
+            "vaccinations",
+            "immunizations",
+            "inoculation",
+            "drugs",
+            "medicines",
+            "pills",
+            "medication",
+            "medicine"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "treatment",
+          "synonyms": [
+            "procedure",
+            "treatments",
+            "therapy",
+            "treating",
+            "cure",
+            "method",
+            "treament"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "webhooks": [
+    {
+      "url": "", #PLEASE INTEGRATE HERE YOUR WEBHOOKS USING SERVELESS FUNCTIONS
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_2_1583850344126",
+      "variable": "$location",
+      "dialog_node": "slot_6_1583850361092",
+      "previous_sibling": "response_1_1583852903930"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            ""
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1583850344126",
+      "conditions": "anything_else",
+      "dialog_node": "response_1_1583852903930",
+      "previous_sibling": "response_7_1583852901876"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "$webhook_result_1.message"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1583850344126",
+      "conditions": "$webhook_result_1",
+      "dialog_node": "response_7_1583852901876"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🦠 <strong>If you are not in an area where COVID-19 is spreading</strong>, or if you have not traveled from one of those areas or have not been in close contact with someone who has and is feeling unwell, your chances of getting it are currently low.</br></br>However, it’s understandable that you may feel stressed and anxious about the situation. It is important to be informed of the situation where you live and take appropriate measures to protect yourself."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "http://disruptrstudio.com/AI/corona-img/image-05.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "🦠 <strong>If you are in an area where there is an outbreak of COVID-19 you need to take the risk of infection seriously</strong>.</br>Follow the advice issued by national and local health authorities. Although for most people COVID-19 causes only mild illness, it can make some people very ill. More rarely, the disease can be fatal. Older people, and those with pre-existing medical conditions (such as high blood pressure, heart problems or diabetes) appear to be more vulnerable."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1583340884721",
+      "disabled": true,
+      "dialog_node": "response_3_1583595754773"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🦠 Okay, for which country?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_6_1583850361092",
+      "event_name": "focus",
+      "dialog_node": "handler_3_1583850361104",
+      "previous_sibling": "handler_7_1583850361104"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_6_1583850361092",
+      "context": {
+        "location": "@sys-location"
+      },
+      "conditions": "@sys-location",
+      "event_name": "input",
+      "dialog_node": "handler_7_1583850361104"
+    },
+    {
+      "type": "standard",
+      "title": "Request",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🦠 Good to know that you're ok  $name.</br>How may I help you today?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1583564440936",
+      "conditions": "#FeelingGood",
+      "dialog_node": "node_8_1583567198935",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "What is Corona?",
+      "parent": "node_3_1583295691974",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Corona || #COVID-19",
+      "dialog_node": "node_1_1583250847091"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🦠<strong>COVID-19</strong> is the infectious disease caused by the most recently discovered coronavirus. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "http://disruptrstudio.com/AI/corona-img/image-03.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "parent": "node_1_1583250847091",
+      "conditions": "#COVID-19",
+      "dialog_node": "response_10_1583252463127",
+      "previous_sibling": "response_8_1583252354748"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🦠<strong>Coronaviruses</strong> are a large family of viruses that may cause illness in animals or humans.  </br>In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS).</br><strong>The most recently discovered coronavirus causes coronavirus disease COVID-19</strong>."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "",
+            "source": "http://disruptrstudio.com/AI/corona-img/image-02.jpg",
+            "description": "Coronaviruses take their name from their crown-like halo. Credit: Eye of Science/SPL",
+            "response_type": "image"
+          }
+        ]
+      },
+      "parent": "node_1_1583250847091",
+      "conditions": "#Corona",
+      "dialog_node": "response_8_1583252354748"
+    },
+    {
+      "type": "standard",
+      "title": "Name",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🦠 Nice meet you $name.</br>How are you feeling today?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "context": {
+        "name": "@sys-person"
+      },
+      "conditions": "@sys-person",
+      "dialog_node": "node_9_1583564440936",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🦠 Do you feel fever, dry cough or tiredness?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1583338882483",
+      "disabled": true,
+      "conditions": "",
+      "dialog_node": "response_8_1583597109135",
+      "previous_sibling": "slot_5_1583597795176"
+    },
+    {
+      "type": "slot",
+      "parent": "node_1_1583338882483",
+      "dialog_node": "slot_5_1583597795176",
+      "previous_sibling": "node_6_1583598451084"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_1_1583338882483",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1583329677682"
+      },
+      "conditions": "@yesornot:no",
+      "dialog_node": "node_6_1583598451084",
+      "previous_sibling": "node_4_1583597459901"
+    },
+    {
+      "type": "standard",
+      "parent": "node_1_1583338882483",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@yesornot:yes",
+      "dialog_node": "node_4_1583597459901",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_5_1583597795176",
+      "event_name": "focus",
+      "dialog_node": "handler_5_1583597795193",
+      "previous_sibling": "handler_9_1583597795193"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_5_1583597795176",
+      "event_name": "input",
+      "dialog_node": "handler_9_1583597795193"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Do you have fever?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_9_1583330584719",
+      "event_name": "focus",
+      "dialog_node": "handler_5_1583330584734",
+      "previous_sibling": "handler_9_1583330584734"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_9_1583330584719",
+      "context": {
+        "symptomatology": "@symptomatology"
+      },
+      "conditions": "@symptomatology",
+      "event_name": "input",
+      "dialog_node": "handler_9_1583330584734"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🦠 <strong>Okay, initially the recommendation for you is to stay at home if you begin to feel unwell</strong>, even with mild symptoms such as headache and a slight runny nose, until you recover.</br></br>Avoiding contact with others and visits to medical facilities will help to protect you and others from possible exposure to COVID-19.</br>\n<strong>If the symptoms still persist contact local health assistance for more instructions</strong>."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1583597459901",
+      "context": {},
+      "conditions": "@yesornot:yes",
+      "dialog_node": "response_5_1583599284538"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "🦠  <strong>The risk depends on where you live or where you have traveled recently</strong>. The risk of infection is higher in areas where a number of people have been diagnosed with COVID-19.</br>More than 95% of all COVID-19 cases are occurring in China, with the majority of those in Hubei Province. For people in most other parts of the world, your risk of getting COVID-19 is currently low, however, it’s important to be aware of the situation and preparedness efforts in your area."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1583441350538",
+      "conditions": "@coronarisks:risk || @coronarisks:risk_contagion",
+      "dialog_node": "response_2_1583557942916",
+      "previous_sibling": "response_8_1583441868549"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🦠  While we are still learning about how COVID-2019 affects people, older persons and persons with pre-existing medical conditions <strong>(such as high blood pressure, heart disease, or diabetes)</strong> appear to develop serious illness more often than others. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1583441350538",
+      "conditions": "@coronarisks:risk_who || @coronarisks:risk",
+      "dialog_node": "response_8_1583441868549"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_2_1583329677682",
+      "variable": "$symptomatology",
+      "dialog_node": "slot_9_1583330584719"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "🦠  <strong>Not yet. To date, there is no vaccine and no specific antiviral medicine to prevent or treat COVID-2019</strong>. However, those affected should receive care to relieve symptoms. People with serious illness should be hospitalized. Most patients recover thanks to supportive care."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1583571416900",
+      "conditions": "@coronatreatment:vaccine",
+      "dialog_node": "response_2_1583571751960",
+      "previous_sibling": "response_3_1583571615951"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🦠 <strong>There is no specific treatment for disease caused by a novel coronavirus</strong>. However, many of the symptoms can be treated and therefore treatment based on the patient’s clinical condition. Moreover, supportive care for infected persons can be highly effective."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1583571416900",
+      "conditions": "@coronatreatment:treatment",
+      "dialog_node": "response_3_1583571615951"
+    },
+    {
+      "type": "standard",
+      "title": "Thanks",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🦠 Thanks for using this service $name. </br>I hope I had provided you with useful information."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1583236823714",
+      "conditions": "#Feedback",
+      "dialog_node": "node_3_1583236879419",
+      "previous_sibling": "node_5_1583230572584",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Greetings",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🦠 Hello, how can I help you?"
+              },
+              {
+                "text": "🦠 Hi, how can I help you?"
+              },
+              {
+                "text": "🦠  Hey, how may I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1583236823714",
+      "conditions": "#Greetings",
+      "dialog_node": "node_5_1583230572584",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "folder",
+      "title": "Topics",
+      "conditions": "@definition",
+      "dialog_node": "node_3_1583295691974",
+      "previous_sibling": "node_2_1583850344126"
+    },
+    {
+      "type": "standard",
+      "title": "About incubation",
+      "output": {
+        "generic": [
+          {
+            "source": "http://disruptrstudio.com/AI/corona-img/image-06.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "🦠 The “<strong>incubation period</strong>” means the time between catching the virus and beginning to have symptoms of the disease. <strong>Most estimates of the incubation period for COVID-19 range from 1-14 days, most commonly around five days</strong>. These estimates will be updated as more data become available."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Incubation",
+      "dialog_node": "node_10_1583944676634",
+      "previous_sibling": "node_4_1583340884721"
+    },
+    {
+      "type": "standard",
+      "title": "General symptoms",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🦠 Ok, The most common <strong>symptoms of COVID-19 are dry cough, fever, breathing difficulties, and tiredness</strong>. Some patients may have aches and pains, nasal congestion, runny nose, sore throat or diarrhoea. These symptoms are usually mild and begin gradually."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "http://disruptrstudio.com/AI/corona-img/image-04.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "Some people become infected but don’t develop any symptoms and don't feel unwell.</br><strong>Most people (about 80%) recover from the disease without needing special treatment</strong>. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Symptoms",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_2_1583329677682",
+      "previous_sibling": "node_3_1583295691974"
+    },
+    {
+      "type": "standard",
+      "title": "Corona virus risks",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Risk",
+      "dialog_node": "node_1_1583441350538",
+      "previous_sibling": "node_6_1583439888434"
+    },
+    {
+      "type": "frame",
+      "title": "Cases information",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "location": "$location"
+          },
+          "result_variable": "webhook_result_1"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Cases || @countries",
+      "dialog_node": "node_2_1583850344126",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "What should I do?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🦠 <strong>If you are not in an area where COVID-19 is spreading</strong>, or if you have not traveled from one of those areas or have not been in close contact with someone who has and is feeling unwell, your chances of getting it are currently low.</br></br>However, it’s understandable that you may feel stressed and anxious about the situation. It is important to be informed of the situation where you live and take appropriate measures to protect yourself."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "http://disruptrstudio.com/AI/corona-img/image-05.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "🦠 <strong>If you are in an area where there is an outbreak of COVID-19 you need to take the risk of infection seriously</strong>.</br>Follow the advice issued by national and local health authorities. Although for most people COVID-19 causes only mild illness, it can make some people very ill. More rarely, the disease can be fatal. Older people, and those with pre-existing medical conditions (such as high blood pressure, heart problems or diabetes) appear to be more vulnerable."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#WhatToDo",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_4_1583340884721",
+      "previous_sibling": "node_1_1583338882483"
+    },
+    {
+      "type": "standard",
+      "title": "There's treatment?",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Treatment",
+      "dialog_node": "node_7_1583571416900",
+      "previous_sibling": "node_1_1583441350538"
+    },
+    {
+      "type": "standard",
+      "title": "Checking symptoms",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🦠 Are you feeling fever, dry cough, breathing difficulties, and tiredness?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "context": {},
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#Feeling",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1583338882483",
+      "previous_sibling": "node_2_1583329677682"
+    },
+    {
+      "type": "folder",
+      "title": "Chitchat",
+      "dialog_node": "node_10_1583236823714",
+      "previous_sibling": "node_7_1583571416900"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🦠 I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "🦠 Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "🦠 I didn't get your meaning. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_10_1583236823714",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Prevention measures",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🦠  Take care of your health and protect others by doing the following:</br>\n<strong>1- Wash your hands</strong>\n<strong>2- Distance from people who are coughing</strong>\n<strong>3- Avoid touching eyes and mouth</strong>\n<strong>4- Follow respiratory hygiene</strong>\n<strong>5- Stay at home if feel unwell</strong>\n<strong>6- Stay informed about COVID-19</strong>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "http://disruptrstudio.com/AI/corona-img/image-07.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#Protection",
+      "dialog_node": "node_6_1583439888434",
+      "previous_sibling": "node_10_1583944676634"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "title": "Information is protection",
+            "source": "http://disruptrstudio.com/AI/corona-img/image-01.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "🦠  I'm here to provide you with essencial info about <strong>Corona Virus (COVID-19)</strong>.</br>You can ask me questions about its contagion, symptoms, prevention, and risks. </br><strong>May I know your name?</strong>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome",
+      "disambiguation_opt_out": true
+    }
+  ],
+  "counterexamples": [
+    {
+      "text": "ok"
+    }
+  ],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "🦠 Are you looking for:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "CRNA",
+  "language": "en",
+  "description": ""
+}
