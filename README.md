@@ -1,4 +1,4 @@
-# covid-19
+# COVID-19 AI Information Assistant
 COVID-19 AI Information Assistant | IBM Watson
 
 <img src="covid19-assistant.jpg">
