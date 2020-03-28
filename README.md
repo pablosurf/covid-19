@@ -11,6 +11,6 @@ Using Watson Assistant Natural Language Processing, we're been able to provide a
 
 Through the Webhooks feature and IBM Serverless Cloud Functions, the assistant is capable to get connected with a data API that it's feeding with the latest statistics about the virus evolution across the planet.</br></br></br>
 
-<strong>This is a humble and small contribution to anyone to use it as a baseline to spread reliable information in order to avoid contagion.</strong>
+<strong>This is a humble and small contribution for anyone who want to use it as a baseline to spread reliable information in order to avoid contagion.</strong>
 </br></br>
 <img src="covid19-assistant.002.jpg">
