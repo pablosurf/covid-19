@@ -1,6 +1,8 @@
 # covid-19
 COVID-19 AI Information Assistant | IBM Watson
 
+<img src="covid19-assistant.jpg">
+
 We have created an AI Assistant using IBM Watson technology taking WHO recommendations about COVID-19 in order to facilitate access to the information which is the first layer of people protection.
 
 The assistant is able to provide information about the virus, its symptoms, incubation period, risks, and global case statistics.
