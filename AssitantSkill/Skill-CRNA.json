@@ -4,12 +4,6 @@
       "intent": "Protection",
       "examples": [
         {
-          "text": "how can I prevent it?"
-        },
-        {
-          "text": "what protection measures can I take?"
-        },
-        {
           "text": "what I need to do to protect me?"
         },
         {
@@ -35,21 +29,60 @@
         },
         {
           "text": "prevention"
+        },
+        {
+          "text": "how can I prevent it?"
+        },
+        {
+          "text": "what protection measures can I take?"
         }
       ],
       "description": ""
+    },
+    {
+      "intent": "Covid_Cleaning_Disinfecting",
+      "examples": [
+        {
+          "text": "What cleaning methods kill the coronavirus?"
+        },
+        {
+          "text": "Whats the difference between cleaning and disinfecting?"
+        },
+        {
+          "text": "how do i get rid of germs at my home"
+        },
+        {
+          "text": "How do I clean my home properly?"
+        },
+        {
+          "text": "Does alcohol kill the coronavirus?"
+        },
+        {
+          "text": "Do I need lysol wipes?"
+        },
+        {
+          "text": "Do I have to use bleach to kill coronavirus?"
+        },
+        {
+          "text": "Are there disinfectants available that can inactivate (kill) COVID-19?"
+        },
+        {
+          "text": "All the stores are out of disinfecting wipes, what do I do?"
+        },
+        {
+          "text": "How often do I need to clean my home to prevent the spread of coronavirus?"
+        },
+        {
+          "text": "Should I spray myself or my kids with disinfectant?"
+        }
+      ],
+      "description": "How to clean and disinfect."
     },
     {
       "intent": "Feeling",
       "examples": [
         {
           "text": "I got fever"
-        },
-        {
-          "text": "I got some fever"
-        },
-        {
-          "text": "I got some dry cough"
         },
         {
           "text": "I got high temperature"
@@ -61,37 +94,79 @@
           "text": "I'm feeling body ache"
         },
         {
-          "text": "I got dry cough"
-        },
-        {
-          "text": "I'm feeling unwell"
-        },
-        {
-          "text": "difficulties to breath"
-        },
-        {
-          "text": "I got difficulty breathing"
-        },
-        {
-          "text": "I have muscle pain"
-        },
-        {
-          "text": "I feel really bad"
-        },
-        {
-          "text": "I have body ache"
-        },
-        {
-          "text": "I have dry cough and fever"
+          "text": "I'm not feeling well"
         },
         {
           "text": "I'm feeling bad"
         },
         {
-          "text": "I'm not feeling well"
+          "text": "I have dry cough and fever"
+        },
+        {
+          "text": "I have body ache"
+        },
+        {
+          "text": "I feel really bad"
+        },
+        {
+          "text": "I have muscle pain"
+        },
+        {
+          "text": "I got difficulty breathing"
+        },
+        {
+          "text": "difficulties to breath"
+        },
+        {
+          "text": "I'm feeling unwell"
+        },
+        {
+          "text": "I got dry cough"
+        },
+        {
+          "text": "I got some fever"
+        },
+        {
+          "text": "I got some dry cough"
         }
       ],
       "description": ""
+    },
+    {
+      "intent": "Covid_Description",
+      "examples": [
+        {
+          "text": "what is the coronavirus?"
+        },
+        {
+          "text": "Has the cause of COVID-19 been identified?"
+        },
+        {
+          "text": "How dangerous is this?"
+        },
+        {
+          "text": "How is COVID-19 spread?"
+        },
+        {
+          "text": "Is the coronavirus the same as a cold?"
+        },
+        {
+          "text": "Is the coronavirus the same as MERS?"
+        },
+        {
+          "text": "Is the coronavirus the same as SARS?"
+        },
+        {
+          "text": "What is COVID-19?"
+        },
+        {
+          "text": "what is novel coronavirus?"
+        },
+        {
+          "text": "Where did the coronavirus come from?"
+        }
+      ],
+      "description": "Overview of Covid 19."
     },
     {
       "intent": "Corona",
@@ -100,10 +175,10 @@
           "text": "what is corona?"
         },
         {
-          "text": "what is a novel coronavirus?"
+          "text": "what is a corona virus?"
         },
         {
-          "text": "what is a corona virus?"
+          "text": "what is a novel coronavirus?"
         }
       ],
       "description": ""
@@ -111,21 +186,6 @@
     {
       "intent": "Symptoms",
       "examples": [
-        {
-          "text": "symptoms?"
-        },
-        {
-          "text": "what are its symptoms?"
-        },
-        {
-          "text": "what's are corona symptoms?"
-        },
-        {
-          "text": "what kind of symptoms has?"
-        },
-        {
-          "text": "how are the symptoms?"
-        },
         {
           "text": "what are the symptoms?"
         },
@@ -137,6 +197,21 @@
         },
         {
           "text": "what are corona symptoms?"
+        },
+        {
+          "text": "what's are corona symptoms?"
+        },
+        {
+          "text": "what kind of symptoms has?"
+        },
+        {
+          "text": "how are the symptoms?"
+        },
+        {
+          "text": "symptoms?"
+        },
+        {
+          "text": "what are its symptoms?"
         }
       ],
       "description": ""
@@ -145,16 +220,16 @@
       "intent": "Feedback",
       "examples": [
         {
-          "text": "thank you"
+          "text": "appreciate"
         },
         {
           "text": "thanks"
         },
         {
-          "text": "appreciate"
+          "text": "thx"
         },
         {
-          "text": "thx"
+          "text": "thank you"
         }
       ],
       "description": ""
@@ -166,28 +241,28 @@
           "text": "I'm doing well"
         },
         {
-          "text": "Im feeling ok"
-        },
-        {
-          "text": "I'm cool"
-        },
-        {
-          "text": "Im fine"
-        },
-        {
-          "text": "cool"
+          "text": "great"
         },
         {
           "text": "fine"
         },
         {
-          "text": "great"
+          "text": "Im fine"
+        },
+        {
+          "text": "I'm cool"
+        },
+        {
+          "text": "Im feeling ok"
+        },
+        {
+          "text": "I'm feeling well"
         },
         {
           "text": "I'm ok"
         },
         {
-          "text": "I'm feeling well"
+          "text": "cool"
         }
       ],
       "description": ""
@@ -196,9 +271,6 @@
       "intent": "Incubation",
       "examples": [
         {
-          "text": "How long take the incubation?"
-        },
-        {
           "text": "incubation info"
         },
         {
@@ -206,6 +278,9 @@
         },
         {
           "text": "What about the incubation?"
+        },
+        {
+          "text": "How long take the incubation?"
         },
         {
           "text": "How long is the incubation period?"
@@ -217,19 +292,7 @@
       "intent": "Cases",
       "examples": [
         {
-          "text": "Germany"
-        },
-        {
-          "text": "status cases"
-        },
-        {
-          "text": "corona cases status"
-        },
-        {
           "text": "contagion cases"
-        },
-        {
-          "text": "Infection cases"
         },
         {
           "text": "argentina"
@@ -245,6 +308,18 @@
         },
         {
           "text": "bolivia"
+        },
+        {
+          "text": "mexico"
+        },
+        {
+          "text": "Portugal"
+        },
+        {
+          "text": "How many cases in"
+        },
+        {
+          "text": "Germany"
         },
         {
           "text": "Chile"
@@ -265,19 +340,151 @@
           "text": "I want to know the cases in my area"
         },
         {
+          "text": "deaths in"
+        },
+        {
+          "text": "status for"
+        },
+        {
+          "text": "cases in"
+        },
+        {
+          "text": "cases at"
+        },
+        {
           "text": "cases of covid"
         },
         {
-          "text": "mexico"
+          "text": "case status for"
+        },
+        {
+          "text": "status cases"
+        },
+        {
+          "text": "corona cases status"
+        },
+        {
+          "text": "Infection cases"
         }
       ],
       "description": ""
     },
     {
+      "intent": "Covid_Testing_Locations",
+      "examples": [
+        {
+          "text": "How do I get tested?"
+        },
+        {
+          "text": "Can I get tested at Walgreens?"
+        },
+        {
+          "text": "Can I test myself at my house?"
+        },
+        {
+          "text": "Can I get tested at my doctors?"
+        },
+        {
+          "text": "Where can I get tested?"
+        },
+        {
+          "text": "testing spots for coronavirus?"
+        },
+        {
+          "text": "testing locations?"
+        }
+      ],
+      "description": "Where to get tested for Covid 19."
+    },
+    {
+      "intent": "Covid_Protecting_Against_Infection",
+      "examples": [
+        {
+          "text": "How can I protect my family from the spread of coronavirus?"
+        },
+        {
+          "text": "What is the risk of my child becoming sick with COVID-19?"
+        },
+        {
+          "text": "Is it even possible to avoid the virus?"
+        },
+        {
+          "text": "How often should I wash my hands?"
+        },
+        {
+          "text": "Do I need to wear a face mask?"
+        },
+        {
+          "text": "What’s the best way to prevent coronavirus?"
+        },
+        {
+          "text": "How do I protect myself?"
+        },
+        {
+          "text": "how do I ensure my family is safe?"
+        },
+        {
+          "text": "How do I avoid covid-19?"
+        },
+        {
+          "text": "what should i do to contain the spread of the virus"
+        },
+        {
+          "text": "prevent the spread of the virus"
+        },
+        {
+          "text": "How do I prevent myself from getting sick?"
+        },
+        {
+          "text": "How to Prevent the Spread of the Virus"
+        }
+      ],
+      "description": "How to prevent infection."
+    },
+    {
+      "intent": "Covid_Event_Shutdowns",
+      "examples": [
+        {
+          "text": "events and large gatherings"
+        },
+        {
+          "text": "When will the NHL return?"
+        },
+        {
+          "text": "What sports are being cancelled?"
+        },
+        {
+          "text": "What is the maximum number of people allowed to meet right now?"
+        },
+        {
+          "text": "Should I feel safe going to the movies?"
+        },
+        {
+          "text": "How do I know if my concert is cancelled?"
+        },
+        {
+          "text": "Are groups of people allowed to meet?"
+        },
+        {
+          "text": "Are events being shut down?"
+        },
+        {
+          "text": "When will the NCAA championships be held?"
+        },
+        {
+          "text": "Why is the government shutting down my event?"
+        },
+        {
+          "text": "Will I get a refund for a ticket I purchased?"
+        }
+      ],
+      "description": "Information on events and large groups."
+    },
+    {
       "intent": "Treatment",
       "examples": [
         {
-          "text": "is there any drug to treat it?"
+          "text": "any vaccination available?"
         },
         {
           "text": "there's any treatment?"
@@ -292,6 +499,9 @@
           "text": "are antibiotics effective treating corona virus?"
         },
         {
+          "text": "is there any drug to treat it?"
+        },
+        {
           "text": "there's a vaccination for corona?"
         },
         {
@@ -299,9 +509,6 @@
         },
         {
           "text": "there's any vaccination available?"
-        },
-        {
-          "text": "any vaccination available?"
         },
         {
           "text": "any vaccination?"
@@ -343,16 +550,118 @@
       "description": ""
     },
     {
+      "intent": "Covid_Symptoms",
+      "examples": [
+        {
+          "text": "What are symptoms?"
+        },
+        {
+          "text": "am i sick"
+        },
+        {
+          "text": "Do I need to get tested?"
+        },
+        {
+          "text": "How do i know if I'm sick"
+        },
+        {
+          "text": "I have travled recently. What do I do?"
+        },
+        {
+          "text": "I think I might have the virus."
+        },
+        {
+          "text": "I think I'm infected"
+        },
+        {
+          "text": "I traveled to Italy recently. What do I do?"
+        },
+        {
+          "text": "should i get tested"
+        },
+        {
+          "text": "should I get tested if I have a cough?"
+        }
+      ],
+      "description": "Symptoms related to Covid 19."
+    },
+    {
+      "intent": "Covid_Travel_Restrictions",
+      "examples": [
+        {
+          "text": "Are there any travel restrictions in place yet?"
+        },
+        {
+          "text": "What if I urgently need to take a flight?"
+        },
+        {
+          "text": "Should I cancel my flight to Denver?"
+        },
+        {
+          "text": "Is it safe to fly to Seattle?"
+        },
+        {
+          "text": "I just travelled. What do I do?"
+        },
+        {
+          "text": "do i need to stay home"
+        },
+        {
+          "text": "Do I need a doctor's note to travel?"
+        },
+        {
+          "text": "Can I travel?"
+        }
+      ],
+      "description": "Information on travel during Covid 19 pandemic."
+    },
+    {
+      "intent": "Covid_School_Shutdown",
+      "examples": [
+        {
+          "text": "How will the shutdown impact my child's attendance records?"
+        },
+        {
+          "text": "Can my child go to school?"
+        },
+        {
+          "text": "Are schools shut down?"
+        },
+        {
+          "text": "Will students still graduate this year?"
+        },
+        {
+          "text": "When will the schools open?"
+        },
+        {
+          "text": "What happens after the ordered three-week closure period ends?"
+        },
+        {
+          "text": "What does the ordered school closure mean for report cards?"
+        },
+        {
+          "text": "Should my child stay home from school?"
+        },
+        {
+          "text": "are schools open?"
+        },
+        {
+          "text": "How can I get the latest news on my school closure?"
+        }
+      ],
+      "description": "Information on local schools."
+    },
+    {
       "intent": "WhatToDo",
       "examples": [
         {
           "text": "do I need medical help?"
         },
         {
-          "text": "what can I if got the disease?"
+          "text": "should I worried about?"
         },
         {
-          "text": "should I worried about?"
+          "text": "what can I if got the disease?"
         },
         {
           "text": "what I have to do?"
@@ -382,10 +691,10 @@
       "intent": "COVID-19",
       "examples": [
         {
-          "text": "what's covid19?"
+          "text": "what is covid -19?"
         },
         {
-          "text": "what is covid -19?"
+          "text": "what's covid19?"
         },
         {
           "text": "covid 19"
@@ -412,43 +721,124 @@
       "description": ""
     },
     {
+      "intent": "Covid_Case_Count",
+      "examples": [
+        {
+          "text": "how many people are sick in the US?"
+        },
+        {
+          "text": "how many people are infected in the us?"
+        },
+        {
+          "text": "How many coronavirus cases are there in my area?"
+        },
+        {
+          "text": "How many cases of the virus are there in the world?"
+        },
+        {
+          "text": "Does the US have a confirmed COVID case?"
+        },
+        {
+          "text": "Does MA have a confirmed COVID case?"
+        },
+        {
+          "text": "covid number in my state?"
+        },
+        {
+          "text": "Are there any cases near me?"
+        },
+        {
+          "text": "Where are cases?"
+        },
+        {
+          "text": "what is the count of coronavirus infected people?"
+        },
+        {
+          "text": "is anyone near me sick"
+        },
+        {
+          "text": "How many cases of COVID-19 are in the US?"
+        },
+        {
+          "text": "has anyone died of coronavirus in my state?"
+        }
+      ],
+      "description": "Information on number of Covid 19 cases."
+    },
+    {
+      "intent": "Covid_Testing_Results",
+      "examples": [
+        {
+          "text": "Do my test results come in the mail?"
+        },
+        {
+          "text": "How can I get my test results?"
+        },
+        {
+          "text": "Its been a week. Who can I call to get my test results?"
+        },
+        {
+          "text": "My doctor hasn't given me my test results back yet."
+        },
+        {
+          "text": "test outcomes?"
+        },
+        {
+          "text": "When can I get my results?"
+        },
+        {
+          "text": "Who will give me my COVID test results?"
+        }
+      ],
+      "description": "How to get Covid 19 test results."
+    },
+    {
       "intent": "Risk",
       "examples": [
         {
-          "text": "what should avoid?"
-        },
-        {
-          "text": "is there anything should I not do?"
-        },
-        {
-          "text": "is corona dangerous for children?"
-        },
-        {
-          "text": "are old people in risk?"
-        },
-        {
-          "text": "are kids in risk?"
-        },
-        {
-          "text": "How easy is to get corona?"
-        },
-        {
-          "text": "is it dangerous?"
-        },
-        {
-          "text": "what kind of risk corona presents?"
-        },
-        {
-          "text": "who is affected?"
+          "text": "How likely is it that I acquire coronavirus?"
         },
         {
           "text": "who is more affected?"
         },
         {
-          "text": "who's in risk?"
+          "text": "who is affected?"
+        },
+        {
+          "text": "what kind of risk corona presents?"
+        },
+        {
+          "text": "is it dangerous?"
         },
         {
           "text": "is corona virus risky?"
+        },
+        {
+          "text": "are kids in risk?"
+        },
+        {
+          "text": "are old people in risk?"
+        },
+        {
+          "text": "is corona dangerous for children?"
+        },
+        {
+          "text": "what are my risk of contagion?"
+        },
+        {
+          "text": "is there anything should I not do?"
+        },
+        {
+          "text": "what should avoid?"
+        },
+        {
+          "text": "how likely I am to catch corona?"
+        },
+        {
+          "text": "what is my risk of contagion?"
+        },
+        {
+          "text": "How easy is to get corona?"
         },
         {
           "text": "I need information about risk"
@@ -463,16 +853,7 @@
           "text": "how probable are the chances to get it?"
         },
         {
-          "text": "How likely is it that I acquire coronavirus?"
-        },
-        {
-          "text": "what are my risk of contagion?"
-        },
-        {
-          "text": "what is my risk of contagion?"
-        },
-        {
-          "text": "how likely I am to catch corona?"
+          "text": "who's in risk?"
         }
       ],
       "description": ""
@@ -857,7 +1238,8 @@
     "api_version": {
       "major_version": "v2",
       "minor_version": "2018-11-08"
-    }
+    },
+    "from-sample": true
   },
   "webhooks": [
     {
@@ -880,7 +1262,7 @@
       "output": {
         "text": {
           "values": [
-            ""
+            "🦠 Please try requesting case status by country."
           ],
           "selection_policy": "sequential"
         }
@@ -894,6 +1276,11 @@
       "type": "response_condition",
       "output": {
         "generic": [
+          {
+            "title": "🦠 Case Status COVID-19 for $location :",
+            "source": "http://disruptrstudio.com/AI/corona-img/image-08.jpg",
+            "response_type": "image"
+          },
           {
             "values": [
               {
@@ -1421,7 +1808,7 @@
           "mcr": true
         }
       },
-      "conditions": "#Cases || @countries",
+      "conditions": "#Cases && @sys-location",
       "dialog_node": "node_2_1583850344126",
       "previous_sibling": "Welcome"
     },
@@ -1566,14 +1953,15 @@
       "output": {
         "generic": [
           {
-            "title": "Information is protection",
+            "title": "Be Informed, Be Protected",
             "source": "http://disruptrstudio.com/AI/corona-img/image-01.jpg",
+            "description": "Please stay home.",
             "response_type": "image"
           },
           {
             "values": [
               {
-                "text": "🦠  I'm here to provide you with essencial info about <strong>Corona Virus (COVID-19)</strong>.</br>You can ask me questions about its contagion, symptoms, prevention, and risks. </br><strong>May I know your name?</strong>"
+                "text": "🦠  I'm here to provide you with essential info about <strong>Corona Virus (COVID-19)</strong>.</br>Here you can request information about the contagion, symptoms, prevention, risks, and case statistics across the world.</br><strong>May I know your name?</strong>"
               }
             ],
             "response_type": "text",
