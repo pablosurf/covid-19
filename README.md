@@ -13,6 +13,7 @@ Through the Webhooks feature and IBM Serverless Cloud Functions, the assistant i
 
 <img src="01.gif" height="479" width="240" hspace="30">   <img src="02.gif" height="479" width="240" hspace="30">   <img src="03.gif" height="479" width="240" hspace="30">
 
+</br></br>
 <strong>This is a humble and small contribution for anyone who wants to use this tool as a baseline to spread reliable information in order to avoid contagion.</strong>
 
 Test URL: http://disruptrstudio.com/AI/index.html
